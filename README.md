@@ -1,3 +1,3 @@
 New File
 feature B
-new line again
+new line new line
